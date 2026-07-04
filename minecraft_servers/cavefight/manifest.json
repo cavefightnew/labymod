@@ -1,0 +1,46 @@
+{
+  "server_name": "cavefight",
+  "nice_name": "CaveFight",
+  "direct_ip": "cavefight.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web_shop": "https://shop.cavefight.de/",
+    "tiktok": "cavefightde",
+    "discord": "https://discord.gg/cavefight",
+    "youtube": "https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg"
+  },
+  "gamemodes": {
+    "battleroyale": {
+      "name": "BattleRoyale", 
+      "color": "#FFA500",
+      "versions": "1.21<*"
+    },
+    "lategame": {
+      "name": "LateGame",
+      "color": "#FFA500",
+      "versions": "1.21<*"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#FFA500",
+      "versions": "1.21<*"
+    }
+  },
+  "discord": {
+    "server_id": 1510282440738869308,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#FFAA00",
+     "background": "#FFFF55",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt am Main",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 3000
+}
